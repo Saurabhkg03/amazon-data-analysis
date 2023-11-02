@@ -37,21 +37,15 @@ To run this app, you need Python installed on your system. If you do not have Py
 3. Install the required libraries:
 
     ```bash
-    pip install -r requirements.txt
-    ```
-
-The `requirements.txt` file should contain the following libraries:
-
-    ```
-    streamlit
-    pandas
-    nltk
-    wordcloud
-    matplotlib
-    seaborn
-    gensim
-    pyLDAvis
-    scikit-learn
+    pip install streamlit
+    pip install pandas
+    pip install nltk
+    pip install wordcloud
+    pip install matplotlib
+    pip install seaborn
+    pip install gensim
+    pip install pyLDAvis
+    pip install scikit-learn
     ```
 
 ## Usage
