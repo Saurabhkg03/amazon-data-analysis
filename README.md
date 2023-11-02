@@ -52,9 +52,9 @@ To run this app, you need Python installed on your system. If you do not have Py
 
 To run the app, navigate to the cloned directory in your terminal and run the following command:
 
-    ```
+    
     streamlit run app.py
-    ```
+    
 
 Replace `app.py` with the actual name of the Python script.
 
