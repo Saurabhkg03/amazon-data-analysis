@@ -1,8 +1,12 @@
 streamlit
 pandas
 nltk
-matplotlib
 wordcloud
+matplotlib
 seaborn
 gensim
+pyLDAvis
 scikit-learn
+transformers
+numpy
+Pillow
