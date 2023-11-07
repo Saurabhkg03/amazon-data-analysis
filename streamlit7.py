@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from gensim import corpora
 import gensim
-import pyLDAvis.gensim_models
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
