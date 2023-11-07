@@ -10,3 +10,5 @@ scikit-learn
 transformers
 numpy
 Pillow
+tensorflow
+
