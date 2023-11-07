@@ -10,6 +10,7 @@ The Streamlit app allows users to upload an Excel file containing Amazon reviews
 
 - **Word Cloud**: Generates a word cloud from all the reviews to visualize the most frequently occurring words.
 - **Positive/Negative Word Cloud**: Creates separate word clouds for positive and negative reviews to easily identify common themes in each sentiment category.
+- **Emotion Analysis**: Emotion analysis, also known as sentiment analysis or sentiment detection, is a natural language processing (NLP) technique used to determine the emotional tone or sentiment expressed in text data.
 - **LDA Analysis**: Performs Latent Dirichlet Allocation (LDA) to discover the main topics that appear in the reviews.
 - **NPS Analysis**: Calculates the Net Promoter Score to gauge customer loyalty and satisfaction based on their reviews.
 - **Intent Analysis**: Categorizes reviews into 'Positive', 'Negative', or 'Neutral' based on the sentiment score.
@@ -23,8 +24,8 @@ To run this app, you need Python installed on your system. If you do not have Py
 1. Clone this repository:
 
     ```
-    git clone https://github.com/your-github-username/amazon-reviews-analysis.git
-    cd amazon-reviews-analysis
+    git clone https://github.com/Saurabhkg03/amazon-data-analysis.git
+    cd amazon-data-analysis
     ```
 
 2. (Optional) Create a virtual environment:
