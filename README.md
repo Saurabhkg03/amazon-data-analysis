@@ -36,22 +36,8 @@ To run this app, you need Python installed on your system. If you do not have Py
 
 3. Install the required libraries:
 
-    ```bash pip install for following-streamlit
-pandas
-nltk
-wordcloud
-matplotlib
-seaborn
-gensim
-pyLDAvis
-scikit-learn
-transformers
-numpy
-Pillow
-tensorflow
-torch==2.1.0
-torchvision==0.16.0
-openpyxl
+    ```bash
+     pip install streamlit pandas nltk wordcloud matplotlib seaborn gensim pyLDAvis scikit-learn transformers numpy Pillow tensorflow torch==2.1.0 torchvision==0.16.0 openpyxl
     ```
 
 ## Usage
