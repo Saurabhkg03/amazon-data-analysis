@@ -1,4 +1,4 @@
-# Amazon Reviews Sentiment Analysis Streamlit App
+# Amazon Reviews Data Analysis App
 
 This repository contains a Streamlit application designed to perform sentiment analysis and other insightful analytics on Amazon product reviews.
 
